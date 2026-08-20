@@ -2,7 +2,7 @@
 
 > **Panduan Instalasi:**
 >
-> 1. Clone repository ini terlebih dahulu menggunakan perintah berikut (jangan lupa tambahkan spasi dan titik di akhir command agar ter-clone langsung ke direktori saat ini jika kamu memilih untuk membuat folder terlabih dahulu):
+> 1. Clone repository ini terlebih dahulu menggunakan perintah berikut (jangan lupa tambahkan spasi dan titik di akhir command agar ter-clone langsung ke direktori saat ini jika kamu memilih untuk membuat folder terlebih dahulu):
 >    ```bash
 >    git clone <url-repository-anda>
 >    ```
